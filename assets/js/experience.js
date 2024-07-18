@@ -46,10 +46,11 @@ const showCards2 = () => {
     </div>
       `)
   );
-  //experiencecards.innerHTML = output;
+  experiencecards.innerHTML = output;
 };
-//document.addEventListener("DOMContentLoaded", showCards2);
+document.addEventListener("DOMContentLoaded", showCards2);
 
+/*
 // Volunteership Cards
 
 const volunteership = document.querySelector(".volunteership");
@@ -95,9 +96,9 @@ const showCards = () => {
       </div>
       `)
   );
-  //volunteership.innerHTML = output;
+  volunteership.innerHTML = output;
 };
-//document.addEventListener("DOMContentLoaded", showCards);
+document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
 
@@ -228,6 +229,7 @@ const showCards3 = () => {
       </div>
       `)
   );
-  //hackathonsection.innerHTML = output;
+  hackathonsection.innerHTML = output;
 };
-//document.addEventListener("DOMContentLoaded", showCards3);
+document.addEventListener("DOMContentLoaded", showCards3); 
+*/
