@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Junior Software Developer",
+    cardImage: "assets/images/experience-page/adinga.png",
+    place: "Adinga Pty Ltd",
+    time: "(Mar 2024 - Present)",
+    desp: "<li>Learn Acumatica ERP: Understand the Acumatica Cloud xRP Platform and customization tools.</li><li>Assist in Development: Help in developing new modules and customizing Acumatica.</li><li>Business Logic: Assist in modifying the business logic as needed.</li><li>Create Reports: Help in creating data-driven business reports.</li><li>Coding and Testing: Write and test code following industry standards.</li><li>Defect Management: Help in managing and fixing reported defects.</li><li>Data Management: Help in data management tasks and report generation.</li><li>Support: Provide technical support and troubleshoot issues.</li>",
+  },  
+  {
     title: "Software Developer Intern",
     cardImage: "assets/images/experience-page/adinga.png",
     place: "Adinga Pty Ltd",
@@ -12,12 +19,12 @@ const exp = [
     desp: "<li>Learned how Acuamtica ERP works by doing courses and learning paths.</li><li>Develop small customization projects to integrate with Acumatica ERP.</li>",
   },
   {
-    title: "Junior Software Developer",
-    cardImage: "assets/images/experience-page/adinga.png",
-    place: "Adinga Pty Ltd",
-    time: "(Mar 2024 - Present)",
-    desp: "<li>Learn Acumatica ERP: Understand the Acumatica Cloud xRP Platform and customization tools.</li><li>Assist in Development: Help in developing new modules and customizing Acumatica.</li><li>Business Logic: Assist in modifying the business logic as needed.</li><li>Create Reports: Help in creating data-driven business reports.</li><li>Coding and Testing: Write and test code following industry standards.</li><li>Defect Management: Help in managing and fixing reported defects.</li><li>Data Management: Help in data management tasks and report generation.</li><li>Support: Provide technical support and troubleshoot issues.</li>",
-  },
+    title: "Job Shadow",
+    cardImage: "assets/images/experience-page/novus.jpg",
+    place: "Novus Holdings Limited",
+    time: "(Mar 2019)",
+    desp: "<li>Joined a small team at Novus Holdings.</li><li>Introduced to Business IT and systems analysis.</li><li>Received Health and Safety briefings.</li><li>Job Shadowing time divided between accounting and IT.</li>",
+  }, 
 ];
 
 const showCards2 = () => {
