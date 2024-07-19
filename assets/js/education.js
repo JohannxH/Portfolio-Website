@@ -5,19 +5,132 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
-  },
-  {
     title: "Build REST & GraphQL requests using Postman",
     cardImage: "assets/images/education-page/udemy2.svg",
     moocLink: "https://www.udemy.com/share/104u1G3@ds9rSXU-swPqKnBUCyjeJHIrW5e6fQ6nCIvwKU5qSarM3kaOc35eLTJV9oIIbv33xw==/",
   },
   {
-    title: "Business Consultant",
+    title: "Business Consultant (Learning Path)",
     cardImage: "assets/images/education-page/acumatica.openuni3.png",
     moocLink: "https://openuni.acumatica.com/learning-paths/implementation-consultant-learning-paths/finance-basic/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "S100 System Installation and Maintenance 2023 R1",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/courses/system-admin/s100-installation-and-site-management-2/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  {
+    title: "Application Developer (Learning Path)",
+    cardImage: "assets/images/education-page/acumatica.openuni3.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+  },
+  
+
+  /*
+  {
+    title: "Data Science",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
     title: "Introduction to HTML 5",
@@ -66,6 +179,7 @@ const moocscards = [
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
   },
+  */
 ];
 
 const experience = [
