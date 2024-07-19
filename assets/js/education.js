@@ -10,9 +10,9 @@ const moocscards = [
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
-    title: "Cryptography",
+    title: "Build REST & GraphQL requests using Postman",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.udemy.com/share/104u1G3@ds9rSXU-swPqKnBUCyjeJHIrW5e6fQ6nCIvwKU5qSarM3kaOc35eLTJV9oIIbv33xw==/",
   },
   {
     title: "Machine Learning",
