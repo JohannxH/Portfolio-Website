@@ -11,13 +11,13 @@ const moocscards = [
   },
   {
     title: "Build REST & GraphQL requests using Postman",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/udemy2.svg",
     moocLink: "https://www.udemy.com/share/104u1G3@ds9rSXU-swPqKnBUCyjeJHIrW5e6fQ6nCIvwKU5qSarM3kaOc35eLTJV9oIIbv33xw==/",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Business Consultant",
+    cardImage: "assets/images/education-page/acumatica.openuni.png",
+    moocLink: "https://openuni.acumatica.com/learning-paths/implementation-consultant-learning-paths/finance-basic/",
   },
   {
     title: "Introduction to HTML 5",
