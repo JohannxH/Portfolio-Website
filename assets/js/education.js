@@ -110,22 +110,15 @@ const moocscards = [
     moocLink: "https://openuni.acumatica.com/courses/development/t270-workflow-api/",
   },
   {
-    title: "Application Developer (Learning Path)",
+    title: "D300 Order Management Basics 2023 R2",
     cardImage: "assets/images/education-page/acumatica.openuni3.png",
-    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+    moocLink: "https://openuni.acumatica.com/courses/distribution/d300-order-management-basics/",
   },
   {
-    title: "Application Developer (Learning Path)",
+    title: "F050 Basic Financial Configuration 2024 R1",
     cardImage: "assets/images/education-page/acumatica.openuni3.png",
-    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
+    moocLink: "https://openuni.acumatica.com/courses/fin/f050-basic-financial-configuration/",
   },
-  {
-    title: "Application Developer (Learning Path)",
-    cardImage: "assets/images/education-page/acumatica.openuni3.png",
-    moocLink: "https://openuni.acumatica.com/learning-paths/developer-learning-paths/development/",
-  },
-  
-
   /*
   {
     title: "Data Science",
