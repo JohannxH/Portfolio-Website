@@ -16,7 +16,7 @@ const moocscards = [
   },
   {
     title: "Business Consultant",
-    cardImage: "assets/images/education-page/acumatica.openuni.png",
+    cardImage: "assets/images/education-page/acumatica.openuni2.png",
     moocLink: "https://openuni.acumatica.com/learning-paths/implementation-consultant-learning-paths/finance-basic/",
   },
   {
