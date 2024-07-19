@@ -6,17 +6,17 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Coming",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "Soon",
+    title: "Coming Soon",
+    cardImage: "assets/images/project-page/dark_mode.png",
+    description: "Coming Soon",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
   {
-    title: "Coming",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "Soon",
+    title: "Coming Soon",
+    cardImage: "assets/images/project-page/light_mode.png",
+    description: "Coming Soon",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
