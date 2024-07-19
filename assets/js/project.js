@@ -6,6 +6,23 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Coming",
+    cardImage: "assets/images/project-page/quiz.jpg",
+    description: "Soon",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "",
+  },
+  {
+    title: "Coming",
+    cardImage: "assets/images/project-page/quiz.jpg",
+    description: "Soon",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "",
+  },  
+  /*
+  {
     title: "Quiz App",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
@@ -109,6 +126,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  */
 ];
 
 // function for rendering project cards data
